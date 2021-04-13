@@ -1,5 +1,5 @@
 public class FirstTask {
 	public static void main(String[] args) {
-		System.out.println("Я изучаю свой первый язык программирования!");
+		System.out.println("I'm studying Java!");
 	}
 }
